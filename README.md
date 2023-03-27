@@ -1,10 +1,10 @@
 # LabCompu2
 Repositorio de prueba para comandos de git
 
-##Autor
-*Marcos **Lopez**
+## Autor
+*Marcos ** Lopez **
 
-##Contenido/Descripcion
+## Contenido/Descripcion
 
 |Email | Autores|
 |------|--------|
