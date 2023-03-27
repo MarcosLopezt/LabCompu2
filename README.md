@@ -2,7 +2,7 @@
 Repositorio de prueba para comandos de git
 
 ## Autor
-*Marcos ** Lopez **
+* Marcos **Lopez**
 
 ## Contenido/Descripcion
 
